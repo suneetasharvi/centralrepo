@@ -4,5 +4,6 @@ void main ( )
 {
    big3();
    palindrome();
+   reverse();
 }
 
