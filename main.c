@@ -2,7 +2,7 @@
 
 void main ( )
 {
-   big3.c();
-   palindrome.c();
+   big3();
+   palindrome();
 }
 
