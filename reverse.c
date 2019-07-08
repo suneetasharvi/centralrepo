@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+void reverse()
 {
     int i, j, k;
     char str[100];
@@ -18,5 +17,5 @@ void main()
         k--;
     }
     printf("The reverse string is %s\n", rev);
-    getch();
+  
 }
